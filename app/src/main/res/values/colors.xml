@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#05c3f9</color>
+    <color name="colorPrimaryDark">#0691b8</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellodrak">#FFc107</color>
+    <color name="yelloo">#FFa000</color>
+    <color name="asa">#ededed</color>
+    <color name="greaan">#7c4dff</color>
+    <color name="blue">#00bfa5</color>
+    <color name="yello">#ffb300</color>
+</resources>
